@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-<a href="https://count.getloli.com/@:Nouzaria?name=%3ANouzaria&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto></a><br/>
+<a href="https://count.getloli.com/@:Nouzaria?name=%3ANouzaria&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"><img src="https://count.getloli.com/@:Nouzaria" alt=":Nouzaria"/></a>
 </p>
 <!--
 **Nouzaria/Nouzaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
