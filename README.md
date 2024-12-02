@@ -3,9 +3,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Nouzaria&theme=nord"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Nouzaria&show_icons=true&theme=vue-dark"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouzaria&layout=compact&theme=vue-dark&hide=css,html"/><br/>Visit Since 6/4/2022<br/>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@v?theme=rule34"/></a><br/>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@:Nouzaria?name=%3ANouzaria&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/></a><br/>
 </p>
-
 
 <!--
 **Nouzaria/Nouzaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
