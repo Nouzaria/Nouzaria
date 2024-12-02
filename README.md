@@ -1,5 +1,10 @@
 ## Hello there 👋
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Soviena&theme=nord"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Soviena&show_icons=true&theme=vue-dark"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soviena&layout=compact&theme=vue-dark&hide=css,html"/><br/>Visit Since 6/4/2022<br/>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@v?theme=rule34"/></a><br/>
+</p>
 
 
 <!--
