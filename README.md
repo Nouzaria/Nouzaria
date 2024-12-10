@@ -2,7 +2,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nouzaria&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouzaria&theme=radical&hide_border=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouzaria&theme=radical&hide_border=false" />
   <img src="https://github-profile-trophy.vercel.app/?username=nouzaria&theme=radical" /><br/>
   Views Count <br/>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@:Nouzaria?name=%3ANouzaria&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/></a><br/>
