@@ -1,6 +1,8 @@
 ## Hello there 👋
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouzaria&layout=compact&theme=vue-dark&hide=css,html"/><br/>Visit Since 16/4/2024<br/>
+  ![Nouzaria's Stats](https://github-readme-stats.vercel.app/api?username=Nouzaria&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+  ![Nouzaria's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nouzaria&theme=gotham&hide_border=false)
+  ![Nouzaria's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouzaria&theme=gotham&show_icons=true&hide_border=false&layout=compact)
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@:Nouzaria?name=%3ANouzaria&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/></a><br/>
 </p>
 
