@@ -10,13 +10,6 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28708423/nouzaria) 
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/FauzilEl) 
 
-# 📊GitHub Stats :
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouzaria&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouzaria&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=nouzaria&theme=radical" />
-</div><br/>
-
 # 💻Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -30,6 +23,13 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+# 📊GitHub Stats :
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouzaria&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouzaria&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nouzaria&theme=radical" />
+</div><br/>
 
 ## Views Counter
 <div align="center">
