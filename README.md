@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-<img align="right" alt="Coding" width="200" src="(https://clipart-library.com/images/8TxgGMkTp.gif)">
+<img align="right" alt="Megaman" src="https://clipart-library.com/images/8TxgGMkTp.gif">
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/FauzilElAdhim) 
