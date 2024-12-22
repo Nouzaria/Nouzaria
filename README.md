@@ -1,6 +1,14 @@
-## Hello there 👋
+## <b>Hello there, I'm Nouzaria!👋</b>
+<img align="right" alt="Coding" width="250" src="https://clipart-library.com/images/8TxgGMkTp.gif">  
 
-<img alt="Megaman" width="200" src="https://clipart-library.com/images/8TxgGMkTp.gif">
+### A Little More About Me:
+Hello! I'm a passionate and dedicated student currently studying information technology.  
+I enjoy exploring the world of web development, programming, and technology innovation.  
+My journey involves constantly learning and growing as I embrace challenges and seek creative solutions.
+
+When I'm not coding, you can find me immersed in gaming or brainstorming ideas for my next project.  
+I'm excited to connect with fellow developers and tech enthusiasts to share knowledge and collaborate!
+<br>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/FauzilElAdhim) 
