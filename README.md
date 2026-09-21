@@ -34,10 +34,10 @@ I'm excited to connect with fellow developers and tech enthusiasts to share know
 
 # 📊GitHub Stats :
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouzaria&theme=radical&hide_border=false" />
-  <img src="https://github-stats-extended.vercel.app/api?username=nouzaria&theme=radical&hide_border=false" /><br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nouzaria&theme=radical&hide_border=false" /><br/>
-</div><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouzaria&theme=radical&hide_border=false" /><br/>
+  <img align="top" height="250" src="https://github-stats-extended.vercel.app/api?username=nouzaria&theme=radical&hide_border=false" />
+  <img align="top" height="250" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nouzaria&theme=radical&hide_border=false" />
+</div>
 
 ## Views Counter
 <div align="center">
