@@ -36,6 +36,7 @@ I'm excited to connect with fellow developers and tech enthusiasts to share know
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouzaria&theme=radical&hide_border=false" />
   <img src="https://github-stats-extended.vercel.app/api?username=nouzaria&theme=radical&hide_border=false" /><br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nouzaria&theme=radical&hide_border=false" /><br/>
 </div><br/>
 
 ## Views Counter
